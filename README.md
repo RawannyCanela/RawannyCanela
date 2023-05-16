@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Raw 👋</h1>
+<h1 align="center">Olá, eu sou a Rawanny 👋</h1>
 <h3 align="center">Eu sou graduanda de Engenharia de Software - BR</h3>
 
 - 💬 Disciplinada, pró-ativa e determinada
