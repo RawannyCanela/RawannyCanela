@@ -9,5 +9,5 @@
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height= "40"/>
-<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" alt="css" width="40" height= "40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_logo_icon_146575.png" alt="css" width="40" height= "40"/>
 </div>
