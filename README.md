@@ -7,6 +7,6 @@
 </div>
 - 📫 E-mail: **rawanny@edu.unifil.br**
 
-<img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png)" alt="html" width="40" height= "40"/> </a> </p>
+<img src="[[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png)](https://www.flaticon.com/br/icone-gratis/html_121537)" alt="html" width="40" height= "40"/> </a> </p>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height= "40"/> </a> </p>
 
