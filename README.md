@@ -18,6 +18,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/RawannyCanela/RawannyCanela/output/snake.svg" alt="Snake animation" />
 
 ###
