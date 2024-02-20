@@ -7,6 +7,7 @@
 </div>
 - 📫 E-mail: **rawanny@edu.unifil.br**
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height= "40"/> </a> </p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height= "40"/> </a> </p>
-
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height= "40"/> </a> </p>
+<img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://icones.pro/wp-content/uploads/2022/08/css3.png)" alt="css" width="40" height= "40"/> </a> </p>
+</div>
