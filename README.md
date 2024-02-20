@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou a Rawanny! </h1>
+<h1 align="left">Oii, eu sou a Rawanny! </h1>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RawannyCanela&theme=dracula&hide" height="150" alt="languages graph"  />
