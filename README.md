@@ -9,5 +9,5 @@
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height= "40"/>
-<img src="[[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://icones.pro/wp-content/uploads/2022/08/css3.png)](https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_logo_icon_146575.png)https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_logo_icon_146575.png" alt="css" width="40" height= "40"/>
+<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" alt="css" width="40" height= "40"/>
 </div>
